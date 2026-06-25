@@ -1,1 +1,7 @@
 - git status, git add, git commit
+
+git remote -v 
+git push -u origin main (first push of a branch)
+git push/get pull - sends and receives data
+
+git fetch - downloads remote commits WITHOUT merging 
