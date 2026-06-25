@@ -1,0 +1,12 @@
+# LOGS
+*.log
+
+#Secrets - never commit credentials
+.env
+
+#build output
+build/
+
+#ignore temp folder and all temp files
+tmp/
+*.tmp
